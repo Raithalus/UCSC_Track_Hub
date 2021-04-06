@@ -1,0 +1,6 @@
+hub Gsx2 (Mouse)
+shortLabel 
+longLabel 
+genomesFile genomes.txt
+email david.cy.cheung@gmail.com
+descriptionUrl
