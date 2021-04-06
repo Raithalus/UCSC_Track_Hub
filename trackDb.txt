@@ -3,5 +3,5 @@ bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/ATAC2-mK4-
 shortLabel ATAC_mK4
 longLabel ATAC from mK4 cells from Kopan Lab (Matt Hass)
 type bigWig
-visibility pack
+visibility full
 ncolor 128,128,128
