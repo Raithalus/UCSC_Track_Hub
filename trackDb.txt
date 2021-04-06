@@ -4,7 +4,7 @@ shortLabel ATAC_mK4
 longLabel ATAC from mK4 cells from Kopan Lab (Matt Hass)
 type bigWig
 visibility full
-ncolor 128,128,128
+color 128,128,128
 
 track C&R_F1
 bigDataURL https://data.cyverse.org/dav-anon/iplant/home/raithvz/CnR/GSM4955003_E12.5_Flag_1.nfr.bw
