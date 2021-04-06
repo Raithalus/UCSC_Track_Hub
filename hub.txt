@@ -1,6 +1,6 @@
 hub Gsx2 (Mouse)
-shortLabel 
-longLabel 
+shortLabel Gsx2_related
+longLabel Gsx2_related_tracks
 genomesFile genomes.txt
 email david.cy.cheung@gmail.com
 descriptionUrl
