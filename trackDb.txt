@@ -8,8 +8,17 @@ color 128,128,128
 
 track CnR_f1
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/CnR/GSM4955003_E12.5_Flag_1.nfr.bw
-shortLabel ATAC_mK4
-longLabel ATAC from mK4 cells from Kopan Lab (Matt Hass)
+shortLabel CnR_f1
+longLabel CnR_f1 (Joe Salomone)
 type bigWig
 visibility full
 color 128,128,128
+
+track CnR_f2
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/CnR/GSM4955004_E12.5_Flag_2.nfr.bw
+shortLabel CnR_f2
+longLabel CnR_f2 (Joe Salomone)
+type bigWig
+visibility full
+color 128,128,128
+
