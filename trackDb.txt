@@ -7,7 +7,7 @@ visibility full
 color 128,128,128
 
 track C&R_F1
-bigDataURL https://data.cyverse.org/dav-anon/iplant/home/raithvz/CnR/GSM4955003_E12.5_Flag_1.nfr.bw
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/CnR/GSM4955003_E12.5_Flag_1.nfr.bw
 shortLabel C&R_F1
 longLabel CUT&RUN_F1
 type bigWig
@@ -15,7 +15,7 @@ visibility full
 color 128,128,128
 
 track C&R_F2
-bigDataURL https://data.cyverse.org/dav-anon/iplant/home/raithvz/CnR/GSM4955004_E12.5_Flag_2.nfr.bw
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/CnR/GSM4955004_E12.5_Flag_2.nfr.bw
 shortLabel C&R_F2
 longLabel CUT&RUN_F2
 type bigWig
