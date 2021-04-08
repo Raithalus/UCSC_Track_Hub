@@ -1,24 +1,17 @@
 track ATAC_mK4
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/ATAC2-mK4-1.bw
+bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/ATAC2-mK4-1.bw
 shortLabel ATAC_mK4
 longLabel ATAC from mK4 cells from Kopan Lab (Matt Hass)
 type bigWig
+nvisibility dense
+ncolor 128,128,128
+
+
+track C&R
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/CnR/E12.5_Flag-HomerPeak.factor-peak.homer.exBL.1rpm.bb
+
+shortLabel C&R
+longLabel CUT&RUN_Combined_F1&F2
+type bigBed
 visibility full
 color 128,128,128
-
-track CnR_f1
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/CnR/GSM4955003_E12.5_Flag_1.nfr.bw
-shortLabel CnR_f1
-longLabel CnR_f1 (Joe Salomone)
-type bigWig
-visibility full
-color 128,128,128
-
-track CnR_f2
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/CnR/GSM4955004_E12.5_Flag_2.nfr.bw
-shortLabel CnR_f2
-longLabel CnR_f2 (Joe Salomone)
-type bigWig
-visibility full
-color 128,128,128
-
