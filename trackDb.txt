@@ -9,7 +9,6 @@ ncolor 128,128,128
 
 track C&R
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/CnR/E12.5_Flag-HomerPeak.factor-peak.homer.exBL.1rpm.bb
-
 shortLabel C&R
 longLabel CUT&RUN_Combined_F1&F2
 type bigBed
