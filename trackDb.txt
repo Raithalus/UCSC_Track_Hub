@@ -17,71 +17,89 @@ ncolor 128,128,128
 track E115_fore
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E115_fore_GSE172582_ENCFF176FRR_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E115_forebrain
+longLabel E115_fore_GSE172582_ENCFF176FRR_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track E115_hind
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E115_hind_GSE172572_ENCFF935DIQ_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E115_hindbrain
+longLabel E115_hind_GSE172572_ENCFF935DIQ_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track E115_mid
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E115_mid_GSE172900_ENCFF504JFN_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E115_midbrain
+longLabel E115_mid_GSE172900_ENCFF504JFN_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 125_fore
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E125_fore_GSE172676_ENCFF203QUE_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E125_forebrain
+longLabel E125_fore_GSE172676_ENCFF203QUE_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 125_hind
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E125_hind_GSE172723_ENCFF186FZC_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E125_hindbrain
+longLabel E125_hind_GSE172723_ENCFF186FZC_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 125_mid
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E125_mid_GSE172861_ENCFF375PBR_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E125_midbrain
+longLabel E125_mid_GSE172861_ENCFF375PBR_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 135_fore
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E135_fore_GSE172874_ENCFF349ACG_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E135_forebrain
+longLabel E135_fore_GSE172874_ENCFF349ACG_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 135_hind
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E135_hind_GSE172912_ENCFF739UJS_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E135_hindbrain
+longLabel E135_hind_GSE172912_ENCFF739UJS_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 135_mid
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E135_mid_GSE172713_ENCFF511UYR_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E135_midbrain
+longLabel E135_mid_GSE172713_ENCFF511UYR_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 145_fore
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E145_fore_GSE172703_ENCFF179GMW_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E145_forebrain
+longLabel E145_fore_GSE172703_ENCFF179GMW_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 145_hind
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E145_hind_GSE172668_ENCFF704WFZ_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E145_hindbrain
+longLabel E145_hind_GSE172668_ENCFF704WFZ_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 145_mid
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E145_mid_GSE172911_ENCFF508OHJ_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E145_midbrain
+longLabel E145_mid_GSE172911_ENCFF508OHJ_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 155_fore
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E155_fore_GSE173047_ENCFF264ZWW_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E155_forebrain
+longLabel E155_fore_GSE173047_ENCFF264ZWW_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 155_hind
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E155_hind_GSE172917_ENCFF192OBL_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E155_hindbrain
+longLabel E155_hind_GSE172917_ENCFF192OBL_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 155_mid
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E155_mid_GSE172535_ENCFF241HRA_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E155_midbrain
+longLabel E155_mid_GSE172535_ENCFF241HRA_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 165_fore
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E165_fore_GSE172767_ENCFF216BFL_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E165_forebrain
+longLabel E165_fore_GSE172767_ENCFF216BFL_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 165_hind
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E165_hind_GSE172800_ENCFF943YMM_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E165_hindbrain
+longLabel E165_hind_GSE172800_ENCFF943YMM_conservative_IDR_thresholded_peaks_mm10.bigBed
 
 track 165_mid
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E165_mid_GSE172759_ENCFF522OBM_conservative_IDR_thresholded_peaks_mm10.bigBed
 shortLabel E165_midbrain
+longLabel E165_mid_GSE172759_ENCFF522OBM_conservative_IDR_thresholded_peaks_mm10.bigBed
