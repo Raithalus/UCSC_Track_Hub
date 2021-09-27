@@ -6,7 +6,6 @@ type bigWig
 nvisibility dense
 ncolor 128,128,128
 
-
 track C&R
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/CnR/E12.5_Flag-HomerPeak.factor-peak.homer.exBL.1rpm.bb
 shortLabel C&R
@@ -14,3 +13,75 @@ longLabel CUT&RUN_Combined_F1&F2
 type bigBed
 nvisibility full
 ncolor 128,128,128
+
+track E115_fore
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E115_fore_GSE172582_ENCFF176FRR_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E115_forebrain
+
+track E115_hind
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E115_hind_GSE172572_ENCFF935DIQ_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E115_hindbrain
+
+track E115_mid
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E115_mid_GSE172900_ENCFF504JFN_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E115_midbrain
+
+track 125_fore
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E125_fore_GSE172676_ENCFF203QUE_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E125_forebrain
+
+track 125_hind
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E125_hind_GSE172723_ENCFF186FZC_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E125_hindbrain
+
+track 125_mid
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E125_mid_GSE172861_ENCFF375PBR_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E125_midbrain
+
+track 135_fore
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E135_fore_GSE172874_ENCFF349ACG_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E135_forebrain
+
+track 135_hind
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E135_hind_GSE172912_ENCFF739UJS_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E135_hindbrain
+
+track 135_mid
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E135_mid_GSE172713_ENCFF511UYR_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E135_midbrain
+
+track 145_fore
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E145_fore_GSE172703_ENCFF179GMW_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E145_forebrain
+
+track 145_hind
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E145_hind_GSE172668_ENCFF704WFZ_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E145_hindbrain
+
+track 145_mid
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E145_mid_GSE172911_ENCFF508OHJ_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E145_midbrain
+
+track 155_fore
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E155_fore_GSE173047_ENCFF264ZWW_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E155_forebrain
+
+track 155_hind
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E155_hind_GSE172917_ENCFF192OBL_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E155_hindbrain
+
+track 155_mid
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E155_mid_GSE172535_ENCFF241HRA_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E155_midbrain
+
+track 165_fore
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E165_fore_GSE172767_ENCFF216BFL_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E165_forebrain
+
+track 165_hind
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E165_hind_GSE172800_ENCFF943YMM_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E165_hindbrain
+
+track 165_mid
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E165_mid_GSE172759_ENCFF522OBM_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E165_midbrain
