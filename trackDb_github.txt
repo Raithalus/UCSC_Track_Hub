@@ -1,0 +1,5 @@
+track E115_fore
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/Encode/E115_fore_GSE172582_ENCFF176FRR_conservative_IDR_thresholded_peaks_mm10.bigBed
+shortLabel E115_forebrain
+longLabel E115_fore_GSE172582_ENCFF176FRR_conservative_IDR_thresholded_peaks_mm10.bigBed
+type bigBed
