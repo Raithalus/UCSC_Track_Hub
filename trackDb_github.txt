@@ -3,3 +3,28 @@ bigDataUrl https://github.com/Raithalus/UCSC_Track_Hub/blob/main/TrackData/E115_
 shortLabel E115_forebrain
 longLabel E115_fore_GSE172582_ENCFF176FRR_conservative_IDR_thresholded_peaks_mm10.bigBed
 type bigBed
+
+track MNS70_1
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_1.bb
+shortLabel MNS70_1
+type bigBed
+
+track MNS70_2
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_2.bb
+shortLabel MNS70_1
+type bigBed
+
+track MNS70_3
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_3.bb
+shortLabel MNS70_1
+type bigBed
+
+track MNS70_4
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_4.bb
+shortLabel MNS70_1
+type bigBed
+
+track MNS70_5
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_5.bb
+shortLabel MNS70_1
+type bigBed
