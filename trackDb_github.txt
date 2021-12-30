@@ -12,24 +12,24 @@ type bigBed
 
 track MNS70_2
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_2.bb
-shortLabel MNS70_1
-longLabel 
+shortLabel MNS70_2
+longLabel MNS70_2
 type bigBed
 
 track MNS70_3
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_3.bb
-shortLabel MNS70_1
-longLabel 
+shortLabel MNS70_3
+longLabel MNS70_3
 type bigBed
 
 track MNS70_4
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_4.bb
-shortLabel MNS70_1
-longLabel 
+shortLabel MNS70_4
+longLabel MNS70_4
 type bigBed
 
 track MNS70_5
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_5.bb
-shortLabel MNS70_1
-longLabel 
+shortLabel MNS70_5
+longLabel MNS70_5
 type bigBed
