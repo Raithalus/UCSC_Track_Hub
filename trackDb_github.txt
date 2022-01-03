@@ -42,3 +42,27 @@ type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_1s_READS.bw
 shortLabel MNS70_1bw
 longLabel MNS70_1bw
+
+track MNS70_2bw
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_2s_READS.bw
+shortLabel MNS70_1bw
+longLabel MNS70_1bw
+
+track MNS70_3bw
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_3s_READS.bw
+shortLabel MNS70_1bw
+longLabel MNS70_1bw
+
+track MNS70_4bw
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_4s_READS.bw
+shortLabel MNS70_1bw
+longLabel MNS70_1bw
+
+track MNS70_5bw
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_5s_READS.bw
+shortLabel MNS70_1bw
+longLabel MNS70_1bw
