@@ -36,3 +36,9 @@ type bigBed
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_5.bb
 shortLabel MNS70_5
 longLabel MNS70_5
+
+track MNS70_1bw
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_1.bb
+shortLabel MNS70_1bw
+longLabel MNS70_1bw
