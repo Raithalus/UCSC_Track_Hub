@@ -30,7 +30,7 @@ longLabel Gsx2_M-sites
 
 track Gsx2_D
 type bigBed
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/GSX2_D_crop.bed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/GSX2_D_crop.bb
 shortLabel Gsx2_D
 longLabel Gsx2_D-sites
 
