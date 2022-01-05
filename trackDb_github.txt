@@ -22,13 +22,13 @@ bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/11
 shortLabel Gsx2_Dlx_CoBound
 longLabel Gsx2_Dlx_CoBound
 
-track name="Gsx2_M" color=0,0,255
+track name="Gsx2_M" 
 type bigBed
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/GSX2_M_crop.bb
 shortLabel Gsx2_M
 longLabel Gsx2_M-sites
 
-track name="Gsx2_D" color=255,0,0
+track name="Gsx2_D" 
 type bigBed
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/GSX2_D_crop.bb
 shortLabel Gsx2_D
