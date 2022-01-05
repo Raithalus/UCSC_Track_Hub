@@ -4,6 +4,12 @@ bigDataUrl https://github.com/Raithalus/UCSC_Track_Hub/blob/main/TrackData/E115_
 shortLabel E115_forebrain
 longLabel E115_fore_GSE172582_ENCFF176FRR_conservative_IDR_thresholded_peaks_mm10.bigBed
 
+track Gsx2_only
+type bigBed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/10.Gsx2.bb
+shortLabel Gsx2_only
+longLabel Gsx2_only
+
 track MNS70_1bw
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_1s_READS.bw
