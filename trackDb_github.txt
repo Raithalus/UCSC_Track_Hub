@@ -10,6 +10,18 @@ bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/10
 shortLabel Gsx2_only
 longLabel Gsx2_only
 
+track Dlx_only
+type bigBed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/01.Dlx.bb
+shortLabel Dlx_only
+longLabel Dlx_only
+
+track Gsx2_Dlx_CoBound
+type bigBed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/11.Gsx2-Dlx.bb
+shortLabel Gsx2_Dlx_CoBound
+longLabel Gsx2_Dlx_CoBound
+
 track MNS70_1bw
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_1s_READS.bw
