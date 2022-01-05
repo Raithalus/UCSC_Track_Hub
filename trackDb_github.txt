@@ -63,3 +63,9 @@ type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/MNS70_5s_READS.bw
 shortLabel MNS70_5bw
 longLabel MNS70_5bw
+
+track MNS70_called
+type bed
+bigDataURL https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/peak.bed
+shortLabel MNS70_ATAC
+longLabel MNS70_ATAC_called
