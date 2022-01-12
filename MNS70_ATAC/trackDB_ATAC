@@ -27,3 +27,9 @@ type bigBed
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/GSX2_D_crop.bb
 shortLabel Gsx2_D
 longLabel Gsx2_D-sites
+
+track name="MNS70_1"
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/LimHW_processed/MNS70_1.nfr.ctr.bw
+shortLabel MNS70_1
+longLabel MNS70_1_ATAC
