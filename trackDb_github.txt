@@ -24,14 +24,14 @@ longLabel Gsx2_Dlx_CoBound
 
 track name="Gsx2_M" 
 type bigBed
-color=0,0,255
+color=0,0,254
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/GSX2_M_crop.bb
 shortLabel Gsx2_M
 longLabel Gsx2_M-sites
 
 track name="Gsx2_D" 
 type bigBed
-color=255,0,0
+color=254,0,0
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/GSX2_D_crop.bb
 shortLabel Gsx2_D
 longLabel Gsx2_D-sites
