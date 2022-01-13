@@ -28,8 +28,32 @@ bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/GS
 shortLabel Gsx2_D
 longLabel Gsx2_D-sites
 
+track name="MNS70_1"
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/LimHW_processed/MNS70_1.nfr.ctr.bw
+shortLabel MNS70_1
+longLabel MNS70_1_ATAC
+
+track name="MNS70_2"
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/LimHW_processed/MNS70_2.nfr.ctr.bw
+shortLabel MNS70_2
+longLabel MNS70_2
+
 track name="MNS70_3"
 type bigWig
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/LimHW_processed/MNS70_3.nfr.ctr.bw
 shortLabel MNS70_3
-longLabel MNS70_3_ATAC
+longLabel MNS70_3
+
+track name="MNS70_4"
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/LimHW_processed/MNS70_4.nfr.ctr.bw
+shortLabel MNS70_4
+longLabel MNS70_4
+
+track name="MNS70_5"
+type bigWig
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/LimHW_processed/MNS70_5.nfr.ctr.bw
+shortLabel MNS70_5
+longLabel MNS70_5
