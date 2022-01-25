@@ -9,3 +9,9 @@ type bed
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/LimHW_processed/MNS70.exBL.1rpm.mm10.bed
 shortLabel ATAC
 longLabel ATAC
+
+track ATAC
+type bed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/LimHW_processed/MNS70.exBL.mm10.bed
+shortLabel ATAC
+longLabel ATAC
