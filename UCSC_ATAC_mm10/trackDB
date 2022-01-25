@@ -1,0 +1,5 @@
+track Gsx2_only
+type bigBed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/10.Gsx2.bb
+shortLabel Gsx2_only
+longLabel Gsx2_only
