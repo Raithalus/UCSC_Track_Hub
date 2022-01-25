@@ -3,3 +3,9 @@ type bigBed
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/Called_Peaks/10.Gsx2.bb
 shortLabel Gsx2_only
 longLabel Gsx2_only
+
+track ATAC_1rpm
+type bed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/raithvz/ATAC/MNS70/LimHW_processed/MNS70.exBL.1rpm.mm10.bed
+shortLabel ATAC
+longLabel ATAC
